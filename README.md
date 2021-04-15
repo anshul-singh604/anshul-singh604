@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **anshul-singh604/anshul-singh604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg) <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
+![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg)
+### Hi!!!, Anshul here 👋<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30">
 
-I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python, Shell, Batch. I am currently working on School Management System that is made possible by PHP.
+I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python. I am currently working on School Management System that is made possible by PHP and laravel.
 
 #### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
 #### Not So fun fact: I am not good with whiteboard coding.
