@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![A cover image that says "Hi I'm Anshul, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Shirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg)
-## Anshul Singh <img src="https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg" > <img align="center"src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
+
 
 I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python, PHP, Laravel.
 <!--
