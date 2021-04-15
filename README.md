@@ -19,9 +19,17 @@ Here are some ideas to get you started:
 ![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg)
 ### Hi!!!, Anshul here 👋<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="60">
 
-I lovee open-source! On my GitHub, You will find many repositories in C++, Java, Python. I am currently working on School Management System that is made possible by PHP and laravel.
+I love open-source! On my GitHub, You will find many repositories in C++, Java, Python. I am currently working on School Management System that is made possible by PHP and laravel.
 
-#### Fun fact: Kids ask 300 questions a day, I can ask 301. <br>
+- 🔭 I’m currently working on my skills.
+- 🌱 I’m currently learning Mobile Computing.
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Anything?..
+- 📫 How to reach me: Mail me
+- 😄 Pronouns: Definetily NOT!
+- ⚡ Fun fact:  Kids ask 300 questions a day, I can ask 301. <br>
+
 #### Not So fun fact: I am not good with whiteboard coding.
 
 ![Anshul's github stats](https://github-readme-stats.vercel.app/api?username=anshul-singh604&show_icons=true&title_color=fff&icon_color=79ff96&text_color=9f9f9f&bg_color=151516)
