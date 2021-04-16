@@ -28,7 +28,7 @@ I love open-source! On my GitHub, You will find many repositories in C++, Java, 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything?..
 - 📫 How to reach me: Mail me
-- 😄 Pronouns: Definetily NOT!
+- 😄 Pronouns: Definitely NOT!
 - ⚡ Fun fact:  Kids ask 300 questions a day, I can ask 301. <br>
 
 #### Not So fun fact: I am not good with whiteboard coding.
