@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![A cover image that says "Hi I'm Garvit, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618471370/snapchat_byfaff.jpg)
+![A cover image that says "Hi I'm Anshul, Welcome to my home in the web.". On left, there's a cartoon character representing me wearing a Red Sweatshirt.](https://res.cloudinary.com/dvm3mzeow/image/upload/v1618580950/pics_xr4ocx.jpg)
 ### Hi!!!, Anshul here 👋<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="60">
 
 I love open-source! On my GitHub, You will find many repositories in C++, Java, Python. I am currently working on School Management System that is made possible by PHP and laravel.
